@@ -1,6 +1,6 @@
 # Piscines de Lyon
 
-Télécharge les données de fréquentation des piscines de Lyon et affiche des graphiques.
+Télécharge les données de fréquentation des piscines de Lyon et les affiche sous forme de graphique.
 
 ## Téléchargement des données
 
